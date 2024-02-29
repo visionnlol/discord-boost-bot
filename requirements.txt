@@ -1,1 +1,1 @@
-pip install colorama httpx tls_client flask fade discord_webhook
+
